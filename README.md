@@ -14,3 +14,7 @@ My YouTube lectures:
 Before starting, please download all materials (by cloning the repo).
 
 Result of lectures: you will get all the instruments for creating Python games.
+
+# How our game will look
+
+![ftd-collision](https://github.com/halloweex/learn-pygame/assets/126845811/536c0a4b-2303-4284-818e-31f8c687c3cd)
